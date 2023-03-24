@@ -1,5 +1,10 @@
 {
- "version":9,
- "url":"https://www.biquge7.xyz",
- "updateContent":"1.本次更新修复了少量BUG。\n 2.优化了部分界面细节。"
+  "api": [
+    {
+      "name": "阅读",
+      "version": 9,
+      "url": "",
+      "updateContent": "1.本次更新修复了少量BUG。\n 2.优化了部分界面细节。"
+    }
+  ]
 }
